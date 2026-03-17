@@ -1,0 +1,2772 @@
+2026-03-16 20:26:47,702 | INFO | === Gmail Sender Started ===
+2026-03-16 20:26:58,730 | INFO | Loaded 70 valid companies
+2026-03-16 20:27:00,103 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 20:27:21,748 | ERROR | Login timeout � check credentials or 2FA
+2026-03-16 20:27:21,748 | CRITICAL | Fatal error: Login failed � check credentials / 2FA
+2026-03-16 20:29:41,241 | INFO | === Gmail Sender Started ===
+2026-03-16 20:29:49,295 | INFO | Loaded 70 valid companies
+2026-03-16 20:29:51,596 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 20:30:00,047 | INFO | Performing fresh login...
+2026-03-16 20:30:11,280 | ERROR | Login exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xcb7dd3
+	0xcb7e14
+	0xac1db0
+	0xaa08d3
+	0xb350fb
+	0xb4b0d9
+	0xb2e7d6
+	0xb00049
+	0xb00e04
+	0xf16924
+	0xf11bf7
+	0xf2f5a0
+	0xcd0f58
+	0xcd891d
+	0xcc0648
+	0xcc0812
+	0xcaa21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 20:30:11,286 | CRITICAL | Fatal error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xcb7dd3
+	0xcb7e14
+	0xac1db0
+	0xaa08d3
+	0xb350fb
+	0xb4b0d9
+	0xb2e7d6
+	0xb00049
+	0xb00e04
+	0xf16924
+	0xf11bf7
+	0xf2f5a0
+	0xcd0f58
+	0xcd891d
+	0xcc0648
+	0xcc0812
+	0xcaa21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 20:32:09,354 | INFO | === Gmail Sender Started ===
+2026-03-16 20:32:22,956 | INFO | Loaded 70 valid companies
+2026-03-16 20:32:24,542 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 20:32:27,320 | INFO | Fresh login attempt 1/3...
+2026-03-16 20:32:43,508 | CRITICAL | Fatal error: Message: element not interactable
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9e7dd3
+	0x9e7e14
+	0x7f1bee
+	0x83398e
+	0x85ea3c
+	0x8318c4
+	0x85ec04
+	0x87b621
+	0x85e7d6
+	0x830049
+	0x830e04
+	0xc46924
+	0xc41bf7
+	0xc5f5a0
+	0xa00f58
+	0xa0891d
+	0x9f0648
+	0x9f0812
+	0x9da21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 20:35:23,541 | INFO | === Gmail Sender Started ===
+2026-03-16 20:35:34,154 | INFO | Loaded 70 valid companies
+2026-03-16 20:35:36,692 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 20:35:48,048 | INFO |    1. Manually type your email + password
+2026-03-16 20:35:48,048 | INFO |    2. Complete any captcha / 2FA / 'Verify it's you' if it appears
+2026-03-16 20:35:48,048 | INFO |    3. When you see the Gmail Inbox, come back here and press ENTER
+2026-03-16 20:37:34,636 | INFO | Cookies saved
+2026-03-16 20:37:34,638 | INFO | Next time the script will log in automatically (no manual step)
+2026-03-16 20:37:34,641 | ERROR | Send failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:37:34,642 | WARNING | Attempt 1 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:37:39,645 | ERROR | Send failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:37:39,646 | WARNING | Attempt 2 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:37:44,648 | ERROR | Send failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:37:44,649 | WARNING | Attempt 3 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:37:49,650 | ERROR | Failed to send to careers@larsentoubro.com after retries
+2026-03-16 20:38:04,653 | ERROR | Send failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:04,654 | WARNING | Attempt 1 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:09,657 | ERROR | Send failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:09,658 | WARNING | Attempt 2 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:14,659 | ERROR | Send failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:14,660 | WARNING | Attempt 3 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:19,661 | ERROR | Failed to send to careers@adityabirlacapital.com after retries
+2026-03-16 20:38:34,665 | ERROR | Send failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:34,666 | WARNING | Attempt 1 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:39,670 | ERROR | Send failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:39,671 | WARNING | Attempt 2 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:44,674 | ERROR | Send failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:44,675 | WARNING | Attempt 3 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:38:49,676 | ERROR | Failed to send to careers@godrej.com after retries
+2026-03-16 20:39:04,679 | ERROR | Send failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:39:04,680 | WARNING | Attempt 1 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:39:09,682 | ERROR | Send failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:39:09,683 | WARNING | Attempt 2 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x317dd3
+	0x317e14
+	0x121db0
+	0x1008d3
+	0x1950fb
+	0x1ab0d9
+	0x18e7d6
+	0x160049
+	0x160e04
+	0x576924
+	0x571bf7
+	0x58f5a0
+	0x330f58
+	0x33891d
+	0x320648
+	0x320812
+	0x30a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+	(nil)
+
+2026-03-16 20:41:54,927 | INFO | ==================================================
+2026-03-16 20:41:54,927 | INFO | Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 20:41:54,928 | INFO | ==================================================
+2026-03-16 20:42:03,120 | INFO | Loaded 70 valid companies from companies.csv
+2026-03-16 20:42:03,120 | INFO | Detected Chrome version: 145.0.7632.160  (major=145)
+2026-03-16 20:42:04,896 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 20:42:07,503 | INFO | Login attempt 1/3...
+2026-03-16 20:42:19,624 | INFO | email input found with selector: input[type='email'][name='identifier']
+2026-03-16 20:42:26,502 | INFO | password input found with selector: input[type='password'][name='Passwd']
+2026-03-16 20:42:42,402 | INFO | Login successful!
+2026-03-16 20:42:42,406 | WARNING | Could not save cookies: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe07dd3
+	0xe07e14
+	0xc11db0
+	0xbf08d3
+	0xc850fb
+	0xc9b0d9
+	0xc7e7d6
+	0xc50049
+	0xc50e04
+	0x1066924
+	0x1061bf7
+	0x107f5a0
+	0xe20f58
+	0xe2891d
+	0xe10648
+	0xe10812
+	0xdfa21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 20:42:42,406 | INFO | [  1/70] Larsen & Toubro Limited  →  careers@larsentoubro.com
+2026-03-16 20:42:42,406 | INFO | Composing to careers@larsentoubro.com (attempt 1)
+2026-03-16 20:42:42,411 | WARNING | Compose attempt 1 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe07dd3
+	0xe07e14
+	0xc11db0
+	0xbf08d3
+	0xc850fb
+	0xc9b0d9
+	0xc7e7d6
+	0xc50049
+	0xc50e04
+	0x1066924
+	0x1061bf7
+	0x107f5a0
+	0xe20f58
+	0xe2891d
+	0xe10648
+	0xe10812
+	0xdfa21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 20:42:47,413 | INFO | Composing to careers@larsentoubro.com (attempt 2)
+2026-03-16 20:42:47,415 | WARNING | Compose attempt 2 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe07dd3
+	0xe07e14
+	0xc11db0
+	0xbf08d3
+	0xc850fb
+	0xc9b0d9
+	0xc7e7d6
+	0xc50049
+	0xc50e04
+	0x1066924
+	0x1061bf7
+	0x107f5a0
+	0xe20f58
+	0xe2891d
+	0xe10648
+	0xe10812
+	0xdfa21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 20:42:52,416 | INFO | Composing to careers@larsentoubro.com (attempt 3)
+2026-03-16 20:42:52,418 | WARNING | Compose attempt 3 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe07dd3
+	0xe07e14
+	0xc11db0
+	0xbf08d3
+	0xc850fb
+	0xc9b0d9
+	0xc7e7d6
+	0xc50049
+	0xc50e04
+	0x1066924
+	0x1061bf7
+	0x107f5a0
+	0xe20f58
+	0xe2891d
+	0xe10648
+	0xe10812
+	0xdfa21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 20:42:52,419 | ERROR | ✗ Failed to send to careers@larsentoubro.com after 3 attempts
+2026-03-16 20:42:52,420 | CRITICAL | Fatal error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe07dd3
+	0xe07e14
+	0xc11db0
+	0xbf08d3
+	0xc850fb
+	0xc9b0d9
+	0xc7e7d6
+	0xc50049
+	0xc50e04
+	0x1066924
+	0x1061bf7
+	0x107f5a0
+	0xe20f58
+	0xe2891d
+	0xe10648
+	0xe10812
+	0xdfa21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\gmail\selenium_email_sender.py", line 334, in compose_and_send
+    btn = WebDriverWait(driver, 10).until(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 514, in _predicate
+    target = driver.find_element(*target)  # grab element at locator
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 816, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe07dd3
+	0xe07e14
+	0xc11db0
+	0xbf08d3
+	0xc850fb
+	0xc9b0d9
+	0xc7e7d6
+	0xc50049
+	0xc50e04
+	0x1066924
+	0x1061bf7
+	0x107f5a0
+	0xe20f58
+	0xe2891d
+	0xe10648
+	0xe10812
+	0xdfa21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\gmail\selenium_email_sender.py", line 501, in main
+    if compose_and_send(driver, co['email'], EMAIL_SUBJECT, body):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\selenium_email_sender.py", line 433, in compose_and_send
+    driver.save_screenshot(f"compose_fail_{to_email.split('@')[0]}.png")
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 896, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 873, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 904, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe07dd3
+	0xe07e14
+	0xc11db0
+	0xbf08d3
+	0xc850fb
+	0xc9b0d9
+	0xc7e7d6
+	0xc50049
+	0xc50e04
+	0x1066924
+	0x1061bf7
+	0x107f5a0
+	0xe20f58
+	0xe2891d
+	0xe10648
+	0xe10812
+	0xdfa21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 20:54:43,731 | INFO | ====================================================
+2026-03-16 20:54:43,731 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 20:54:43,732 | INFO | ====================================================
+2026-03-16 20:54:59,327 | INFO | Loaded 70 valid companies
+2026-03-16 20:54:59,327 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 20:55:01,281 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 20:55:10,969 | WARNING | Cookie login failed: Ran out of input
+2026-03-16 20:55:10,970 | INFO | Login attempt 1/3...
+2026-03-16 20:55:16,647 | INFO | Email field found: input[type='email'][name='identifier']
+2026-03-16 20:55:17,278 | ERROR | WebDriver error on attempt 1: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x5289cd
+	0x52acbf
+	0x52ad58
+	0x572823
+	0x570b09
+	0x56e4c2
+	0x56d6d4
+	0x561e88
+	0x58ea3c
+	0x5618c4
+	0x58ec04
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 20:55:17,406 | INFO | Screenshot saved: crash_1.png
+2026-03-16 20:55:22,408 | INFO | Login attempt 2/3...
+2026-03-16 20:55:27,418 | INFO | Email field found: input[type='email'][name='identifier']
+2026-03-16 20:55:36,798 | INFO | Password field found: input[type='password'][name='Passwd']
+2026-03-16 20:55:49,808 | WARNING | Attempt 2: not in inbox. URL=chrome://managed-user-profile-notice/
+2026-03-16 20:55:49,849 | INFO | Screenshot saved: login_fail_final_2.png
+2026-03-16 20:55:49,849 | INFO | Login attempt 3/3...
+2026-03-16 20:56:56,753 | WARNING | Email field not found
+2026-03-16 20:56:56,901 | INFO | Screenshot saved: login_fail_email_3.png
+2026-03-16 20:56:56,901 | ERROR | All login attempts failed.
+2026-03-16 20:56:56,901 | ERROR | Login failed — check credentials or screenshots.
+2026-03-16 20:57:12,942 | INFO | ====================================================
+2026-03-16 20:57:12,942 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 20:57:12,942 | INFO | ====================================================
+2026-03-16 20:57:29,245 | INFO | Loaded 70 valid companies
+2026-03-16 20:57:29,245 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 20:57:30,688 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 20:57:38,997 | WARNING | Cookie login failed: Ran out of input
+2026-03-16 20:57:38,997 | INFO | Login attempt 1/3...
+2026-03-16 20:57:44,181 | INFO | Email field found: input[type='email'][name='identifier']
+2026-03-16 20:57:53,739 | INFO | Password field found: input[type='password'][name='Passwd']
+2026-03-16 20:58:06,914 | INFO | Login successful!
+2026-03-16 20:58:06,924 | INFO | Session cookies saved.
+2026-03-16 20:58:06,930 | INFO | [  1/70] Larsen & Toubro Limited  →  careers@larsentoubro.com
+2026-03-16 20:58:06,932 | INFO | Composing to careers@larsentoubro.com (attempt 1)
+2026-03-16 20:58:07,467 | WARNING | Window lost on attempt 1: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6c7dd3
+	0x6c7e14
+	0x4d1db0
+	0x4b08d3
+	0x5450fb
+	0x55b0d9
+	0x53e7d6
+	0x510049
+	0x510e04
+	0x926924
+	0x921bf7
+	0x93f5a0
+	0x6e0f58
+	0x6e891d
+	0x6d0648
+	0x6d0812
+	0x6ba21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 20:58:07,478 | INFO | Recovered window, retrying...
+2026-03-16 20:58:12,486 | INFO | Composing to careers@larsentoubro.com (attempt 2)
+2026-03-16 20:58:59,061 | INFO | ✓ Confirmed sent → careers@larsentoubro.com
+2026-03-16 20:58:59,061 | INFO | Waiting 16.2s...
+2026-03-16 20:59:15,304 | INFO | [  2/70] Aditya Birla Capital  →  careers@adityabirlacapital.com
+2026-03-16 20:59:15,307 | INFO | Composing to careers@adityabirlacapital.com (attempt 1)
+2026-03-16 20:59:23,394 | INFO | Interrupted by user.
+2026-03-16 21:02:14,035 | INFO | ====================================================
+2026-03-16 21:02:14,035 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:02:14,036 | INFO | ====================================================
+2026-03-16 21:02:22,849 | INFO | Loaded 70 valid companies
+2026-03-16 21:02:22,850 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 21:02:24,314 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:02:39,036 | INFO | Login attempt 1/3...
+2026-03-16 21:02:43,994 | INFO | Email field found: input[type='email'][name='identifier']
+2026-03-16 21:02:53,451 | INFO | Password field found: input[type='password'][name='Passwd']
+2026-03-16 21:03:06,831 | INFO | Login successful!
+2026-03-16 21:03:06,851 | INFO | Session cookies saved.
+2026-03-16 21:03:06,858 | INFO | [  1/70] Larsen & Toubro Limited  →  careers@larsentoubro.com
+2026-03-16 21:03:06,861 | INFO | Composing to careers@larsentoubro.com (attempt 1)
+2026-03-16 21:03:07,492 | WARNING | Window lost on attempt 1: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x8a7dd3
+	0x8a7e14
+	0x6b1db0
+	0x6908d3
+	0x7250fb
+	0x73b0d9
+	0x71e7d6
+	0x6f0049
+	0x6f0e04
+	0xb06924
+	0xb01bf7
+	0xb1f5a0
+	0x8c0f58
+	0x8c891d
+	0x8b0648
+	0x8b0812
+	0x89a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:03:07,498 | INFO | Recovered window, retrying...
+2026-03-16 21:03:12,681 | INFO | Composing to careers@larsentoubro.com (attempt 2)
+2026-03-16 21:03:59,746 | INFO | ✓ Confirmed sent → careers@larsentoubro.com
+2026-03-16 21:03:59,746 | INFO | Waiting 18.9s...
+2026-03-16 21:04:02,258 | INFO | Interrupted by user.
+2026-03-16 21:10:41,948 | INFO | ====================================================
+2026-03-16 21:10:41,948 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:10:41,949 | INFO | ====================================================
+2026-03-16 21:10:49,113 | INFO | Loaded 70 valid companies
+2026-03-16 21:10:49,115 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 21:10:51,415 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:11:06,833 | INFO | Login attempt 1/3...
+2026-03-16 21:11:11,988 | INFO | Email field found: input[type='email'][name='identifier']
+2026-03-16 21:11:21,445 | INFO | Password field found: input[type='password'][name='Passwd']
+2026-03-16 21:11:42,960 | INFO | Login successful!
+2026-03-16 21:11:42,972 | INFO | Session cookies saved.
+2026-03-16 21:11:42,979 | INFO | [  1/70] Larsen & Toubro Limited  →  careers@larsentoubro.com
+2026-03-16 21:11:42,982 | INFO | Composing to careers@larsentoubro.com (attempt 1)
+2026-03-16 21:12:05,472 | WARNING | To selector textarea[name='to'] failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb57dd3
+	0xb57e14
+	0x961db0
+	0x9ac20a
+	0x9ac4ab
+	0x9ede32
+	0x9cea84
+	0x9eb621
+	0x9ce7d6
+	0x9a0049
+	0x9a0e04
+	0xdb6924
+	0xdb1bf7
+	0xdcf5a0
+	0xb70f58
+	0xb7891d
+	0xb60648
+	0xb60812
+	0xb4a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:12:15,602 | WARNING | To selector input[aria-label='To'] failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb57dd3
+	0xb57e14
+	0x961db0
+	0x9ac20a
+	0x9ac4ab
+	0x9ede32
+	0x9cea84
+	0x9eb621
+	0x9ce7d6
+	0x9a0049
+	0x9a0e04
+	0xdb6924
+	0xdb1bf7
+	0xdcf5a0
+	0xb70f58
+	0xb7891d
+	0xb60648
+	0xb60812
+	0xb4a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:12:15,603 | WARNING | Window lost on attempt 1: Message: Could not fill To field with any known selector; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2026-03-16 21:12:15,605 | INFO | Recovered window, retrying...
+2026-03-16 21:12:20,608 | INFO | Composing to careers@larsentoubro.com (attempt 2)
+2026-03-16 21:12:43,000 | WARNING | To selector textarea[name='to'] failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb57dd3
+	0xb57e14
+	0x961db0
+	0x9ac20a
+	0x9ac4ab
+	0x9ede32
+	0x9cea84
+	0x9eb621
+	0x9ce7d6
+	0x9a0049
+	0x9a0e04
+	0xdb6924
+	0xdb1bf7
+	0xdcf5a0
+	0xb70f58
+	0xb7891d
+	0xb60648
+	0xb60812
+	0xb4a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:12:53,132 | WARNING | To selector input[aria-label='To'] failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb57dd3
+	0xb57e14
+	0x961db0
+	0x9ac20a
+	0x9ac4ab
+	0x9ede32
+	0x9cea84
+	0x9eb621
+	0x9ce7d6
+	0x9a0049
+	0x9a0e04
+	0xdb6924
+	0xdb1bf7
+	0xdcf5a0
+	0xb70f58
+	0xb7891d
+	0xb60648
+	0xb60812
+	0xb4a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:12:53,132 | WARNING | Window lost on attempt 2: Message: Could not fill To field with any known selector; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2026-03-16 21:12:53,137 | INFO | Recovered window, retrying...
+2026-03-16 21:12:58,141 | INFO | Composing to careers@larsentoubro.com (attempt 3)
+2026-03-16 21:13:20,515 | WARNING | To selector textarea[name='to'] failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb57dd3
+	0xb57e14
+	0x961db0
+	0x9ac20a
+	0x9ac4ab
+	0x9ede32
+	0x9cea84
+	0x9eb621
+	0x9ce7d6
+	0x9a0049
+	0x9a0e04
+	0xdb6924
+	0xdb1bf7
+	0xdcf5a0
+	0xb70f58
+	0xb7891d
+	0xb60648
+	0xb60812
+	0xb4a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:13:30,653 | WARNING | To selector input[aria-label='To'] failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb57dd3
+	0xb57e14
+	0x961db0
+	0x9ac20a
+	0x9ac4ab
+	0x9ede32
+	0x9cea84
+	0x9eb621
+	0x9ce7d6
+	0x9a0049
+	0x9a0e04
+	0xdb6924
+	0xdb1bf7
+	0xdcf5a0
+	0xb70f58
+	0xb7891d
+	0xb60648
+	0xb60812
+	0xb4a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:13:30,654 | WARNING | Window lost on attempt 3: Message: Could not fill To field with any known selector; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2026-03-16 21:13:30,656 | INFO | Recovered window, retrying...
+2026-03-16 21:13:35,657 | ERROR | ✗ Failed to send → careers@larsentoubro.com after 3 attempts
+2026-03-16 21:13:35,808 | INFO | Screenshot saved: fail_careers.png
+2026-03-16 21:13:35,809 | INFO | Waiting 12.3s...
+2026-03-16 21:13:48,070 | INFO | [  2/70] Aditya Birla Capital  →  careers@adityabirlacapital.com
+2026-03-16 21:13:48,073 | INFO | Composing to careers@adityabirlacapital.com (attempt 1)
+2026-03-16 21:14:10,403 | WARNING | To selector textarea[name='to'] failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb57dd3
+	0xb57e14
+	0x961db0
+	0x9ac20a
+	0x9ac4ab
+	0x9ede32
+	0x9cea84
+	0x9eb621
+	0x9ce7d6
+	0x9a0049
+	0x9a0e04
+	0xdb6924
+	0xdb1bf7
+	0xdcf5a0
+	0xb70f58
+	0xb7891d
+	0xb60648
+	0xb60812
+	0xb4a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:14:20,533 | WARNING | To selector input[aria-label='To'] failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb57dd3
+	0xb57e14
+	0x961db0
+	0x9ac20a
+	0x9ac4ab
+	0x9ede32
+	0x9cea84
+	0x9eb621
+	0x9ce7d6
+	0x9a0049
+	0x9a0e04
+	0xdb6924
+	0xdb1bf7
+	0xdcf5a0
+	0xb70f58
+	0xb7891d
+	0xb60648
+	0xb60812
+	0xb4a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:14:20,534 | WARNING | Window lost on attempt 1: Message: Could not fill To field with any known selector; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2026-03-16 21:14:20,539 | INFO | Recovered window, retrying...
+2026-03-16 21:14:25,545 | INFO | Composing to careers@adityabirlacapital.com (attempt 2)
+2026-03-16 21:14:25,696 | INFO | Interrupted by user.
+2026-03-16 21:23:02,857 | INFO | ====================================================
+2026-03-16 21:23:02,858 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:23:02,858 | INFO | ====================================================
+2026-03-16 21:23:16,316 | INFO | Loaded 70 valid companies
+2026-03-16 21:23:16,316 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 21:23:21,510 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:23:35,642 | INFO | Login attempt 1/3...
+2026-03-16 21:23:40,691 | INFO | Email field found: input[type='email'][name='identifier']
+2026-03-16 21:23:50,272 | INFO | Password field found: input[type='password'][name='Passwd']
+2026-03-16 21:24:03,008 | WARNING | Attempt 1: not in inbox. URL=chrome://managed-user-profile-notice/
+2026-03-16 21:24:03,046 | INFO | Screenshot saved: login_fail_final_1.png
+2026-03-16 21:24:03,047 | INFO | Login attempt 2/3...
+2026-03-16 21:25:09,435 | WARNING | Email field not found
+2026-03-16 21:25:09,587 | INFO | Screenshot saved: login_fail_email_2.png
+2026-03-16 21:25:09,587 | INFO | Login attempt 3/3...
+2026-03-16 21:25:19,311 | INFO | Interrupted by user.
+2026-03-16 21:25:24,001 | INFO | ====================================================
+2026-03-16 21:25:24,001 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:25:24,001 | INFO | ====================================================
+2026-03-16 21:25:46,463 | INFO | Loaded 70 valid companies
+2026-03-16 21:25:46,463 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 21:25:48,963 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:26:04,274 | INFO | Login attempt 1/3...
+2026-03-16 21:26:09,320 | INFO | Email field found: input[type='email'][name='identifier']
+2026-03-16 21:26:18,557 | INFO | Password field found: input[type='password'][name='Passwd']
+2026-03-16 21:26:35,327 | INFO | Login successful!
+2026-03-16 21:26:35,337 | INFO | Session cookies saved.
+2026-03-16 21:26:40,962 | INFO | [  1/70] Larsen & Toubro Limited  →  careers@larsentoubro.com
+2026-03-16 21:26:43,019 | INFO | Composing to careers@larsentoubro.com (attempt 1)
+2026-03-16 21:26:55,896 | INFO | To field found: div[aria-label='To']
+2026-03-16 21:26:56,661 | WARNING | Window error on attempt 1: Message: element not interactable
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1277dd3
+	0x1277e14
+	0x1081bee
+	0x10c6e0f
+	0x10c547b
+	0x10eea3c
+	0x10c18c4
+	0x10eec04
+	0x110b621
+	0x10ee7d6
+	0x10c0049
+	0x10c0e04
+	0x14d6924
+	0x14d1bf7
+	0x14ef5a0
+	0x1290f58
+	0x129891d
+	0x1280648
+	0x1280812
+	0x126a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:27:03,704 | INFO | Composing to careers@larsentoubro.com (attempt 2)
+2026-03-16 21:27:16,413 | INFO | To field found: div[aria-label='To']
+2026-03-16 21:27:17,099 | WARNING | Window error on attempt 2: Message: element not interactable
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1277dd3
+	0x1277e14
+	0x1081bee
+	0x10c6e0f
+	0x10c547b
+	0x10eea3c
+	0x10c18c4
+	0x10eec04
+	0x110b621
+	0x10ee7d6
+	0x10c0049
+	0x10c0e04
+	0x14d6924
+	0x14d1bf7
+	0x14ef5a0
+	0x1290f58
+	0x129891d
+	0x1280648
+	0x1280812
+	0x126a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:27:24,146 | INFO | Composing to careers@larsentoubro.com (attempt 3)
+2026-03-16 21:27:36,864 | INFO | To field found: div[aria-label='To']
+2026-03-16 21:27:37,593 | WARNING | Window error on attempt 3: Message: element not interactable
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1277dd3
+	0x1277e14
+	0x1081bee
+	0x10c6e0f
+	0x10c547b
+	0x10eea3c
+	0x10c18c4
+	0x10eec04
+	0x110b621
+	0x10ee7d6
+	0x10c0049
+	0x10c0e04
+	0x14d6924
+	0x14d1bf7
+	0x14ef5a0
+	0x1290f58
+	0x129891d
+	0x1280648
+	0x1280812
+	0x126a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:27:42,596 | ERROR | ✗ Failed to send → careers@larsentoubro.com after 3 attempts
+2026-03-16 21:27:42,763 | INFO | Screenshot saved: fail_careers.png
+2026-03-16 21:27:42,763 | INFO | Waiting 17.1s...
+2026-03-16 21:27:59,853 | INFO | [  2/70] Aditya Birla Capital  →  careers@adityabirlacapital.com
+2026-03-16 21:28:01,894 | INFO | Composing to careers@adityabirlacapital.com (attempt 1)
+2026-03-16 21:28:55,697 | WARNING | To field not found. Compose elements dump: [('img', 'Maximize', ''), ('img', 'Full screen (Shift for pop-out)', ''), ('img', 'Save & close', ''), ('div', 'New Message', None), ('span', 'To - Select contacts', None), ('div', 'To', 'to'), ('span', 'Add Cc recipients \u202a(Ctrl-Shift-C)\u202c', None), ('span', 'Add Bcc recipients \u202a(Ctrl-Shift-B)\u202c', None), ('span', 'Cc - Select contacts', None), ('div', 'Cc', 'cc'), ('span', 'Bcc - Select contacts', None), ('div', 'Bcc', 'bcc'), ('div', 'Possible addition suggestions', None), ('div', 'Possible replacement suggestions', None), ('input', 'Subject', 'subjectbox'), ('input', None, 'composeid'), ('input', None, 'from'), ('input', None, 'subject'), ('input', None, 'draft'), ('input', None, 'rt')]
+2026-03-16 21:28:55,698 | WARNING | Window error on attempt 1: Message: To field not found with any known selector; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2026-03-16 21:29:02,770 | INFO | Composing to careers@adityabirlacapital.com (attempt 2)
+2026-03-16 21:29:08,768 | INFO | Interrupted by user.
+2026-03-16 21:29:31,865 | INFO | ====================================================
+2026-03-16 21:29:31,865 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:29:31,865 | INFO | ====================================================
+2026-03-16 21:29:43,418 | INFO | Loaded 70 valid companies
+2026-03-16 21:29:43,418 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 21:29:45,311 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:30:00,076 | INFO | Login attempt 1/3...
+2026-03-16 21:30:05,013 | INFO | Email field found: input[type='email'][name='identifier']
+2026-03-16 21:30:16,441 | INFO | Password field found: input[type='password'][name='Passwd']
+2026-03-16 21:30:26,739 | ERROR | switch_to_active_window failed: Message: No open windows found
+
+2026-03-16 21:30:26,739 | ERROR | WebDriver error on attempt 1: Message: No open windows found
+
+2026-03-16 21:30:33,670 | INFO | Screenshot saved: crash_1.png
+2026-03-16 21:30:38,671 | INFO | Login attempt 2/3...
+2026-03-16 21:31:11,508 | INFO | Interrupted by user.
+2026-03-16 21:31:42,376 | INFO | ====================================================
+2026-03-16 21:31:42,377 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:31:42,377 | INFO | ====================================================
+2026-03-16 21:31:49,179 | INFO | Loaded 70 valid companies
+2026-03-16 21:31:49,179 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 21:31:50,483 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:32:04,495 | INFO | Login attempt 1/3...
+2026-03-16 21:32:09,378 | INFO | Email field found: input[type='email'][name='identifier']
+2026-03-16 21:32:18,758 | INFO | Password field found: input[type='password'][name='Passwd']
+2026-03-16 21:32:31,705 | WARNING | Attempt 1: not in inbox. URL=chrome://managed-user-profile-notice/
+2026-03-16 21:32:31,757 | INFO | Screenshot saved: login_fail_final_1.png
+2026-03-16 21:32:31,758 | INFO | Login attempt 2/3...
+2026-03-16 21:33:20,277 | INFO | Interrupted by user.
+2026-03-16 21:35:47,688 | INFO | ====================================================
+2026-03-16 21:35:47,688 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:35:47,688 | INFO | ====================================================
+2026-03-16 21:35:54,834 | INFO | Loaded 70 valid companies
+2026-03-16 21:35:54,834 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 21:35:57,297 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:36:12,354 | INFO | Login attempt 1/3...
+2026-03-16 21:36:17,329 | INFO | Email field found: input[type='email'][name='identifier']
+2026-03-16 21:36:26,682 | INFO | Password field found: input[type='password'][name='Passwd']
+2026-03-16 21:36:36,704 | INFO | Managed profile notice detected — dismissing...
+2026-03-16 21:36:36,712 | INFO | Radio button not found — proceeding to Confirm directly
+2026-03-16 21:36:36,720 | WARNING | Could not click Confirm on profile notice: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space(text())='Confirm'] | //*[@id='confirm-button'] | //cr-button[normalize-space(.)='Confirm']"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x567dd3
+	0x567e14
+	0x371db0
+	0x3bc20a
+	0x3bc4ab
+	0x3fde32
+	0x3dea84
+	0x3fb621
+	0x3de7d6
+	0x3b0049
+	0x3b0e04
+	0x7c6924
+	0x7c1bf7
+	0x7df5a0
+	0x580f58
+	0x58891d
+	0x570648
+	0x570812
+	0x55a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:36:45,516 | INFO | Login successful!
+2026-03-16 21:36:45,525 | INFO | Session cookies saved.
+2026-03-16 21:36:45,531 | INFO | [  1/70] Larsen & Toubro Limited  →  careers@larsentoubro.com
+2026-03-16 21:36:47,573 | INFO | Composing to careers@larsentoubro.com (attempt 1)
+2026-03-16 21:37:00,840 | INFO | To field focused via JS: div[aria-label='To'][name='to']
+2026-03-16 21:37:01,179 | WARNING | Window error on attempt 1: Message: element not interactable
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x567dd3
+	0x567e14
+	0x371bee
+	0x3b6e0f
+	0x3b547b
+	0x3dea3c
+	0x3b18c4
+	0x3dec04
+	0x3fb621
+	0x3de7d6
+	0x3b0049
+	0x3b0e04
+	0x7c6924
+	0x7c1bf7
+	0x7df5a0
+	0x580f58
+	0x58891d
+	0x570648
+	0x570812
+	0x55a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:37:08,231 | INFO | Composing to careers@larsentoubro.com (attempt 2)
+2026-03-16 21:37:21,438 | INFO | To field focused via JS: div[aria-label='To'][name='to']
+2026-03-16 21:37:21,768 | WARNING | Window error on attempt 2: Message: element not interactable
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x567dd3
+	0x567e14
+	0x371bee
+	0x3b6e0f
+	0x3b547b
+	0x3dea3c
+	0x3b18c4
+	0x3dec04
+	0x3fb621
+	0x3de7d6
+	0x3b0049
+	0x3b0e04
+	0x7c6924
+	0x7c1bf7
+	0x7df5a0
+	0x580f58
+	0x58891d
+	0x570648
+	0x570812
+	0x55a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:37:28,814 | INFO | Composing to careers@larsentoubro.com (attempt 3)
+2026-03-16 21:37:33,355 | INFO | Interrupted by user.
+2026-03-16 21:41:49,628 | INFO | ==========================================================
+2026-03-16 21:41:49,628 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:41:49,628 | INFO | ==========================================================
+2026-03-16 21:41:56,916 | INFO | Loaded 70 valid companies
+2026-03-16 21:41:56,917 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 21:41:58,352 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:42:16,043 | INFO | Login attempt 1/3...
+2026-03-16 21:42:21,049 | INFO | Email field found: input[type='email'][name='identifier']
+2026-03-16 21:42:30,616 | INFO | Password field found: input[type='password'][name='Passwd']
+2026-03-16 21:42:40,611 | INFO | Managed profile notice detected — dismissing...
+2026-03-16 21:42:40,634 | WARNING | Could not click Confirm on profile notice: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space(text())='Confirm'] | //*[@id='confirm-button'] | //cr-button[normalize-space(.)='Confirm']"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1247dd3
+	0x1247e14
+	0x1051db0
+	0x109c20a
+	0x109c4ab
+	0x10dde32
+	0x10bea84
+	0x10db621
+	0x10be7d6
+	0x1090049
+	0x1090e04
+	0x14a6924
+	0x14a1bf7
+	0x14bf5a0
+	0x1260f58
+	0x126891d
+	0x1250648
+	0x1250812
+	0x123a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:42:49,407 | INFO | Login successful!
+2026-03-16 21:42:49,418 | INFO | Session cookies saved.
+2026-03-16 21:42:49,423 | INFO | [  1/70] Larsen & Toubro Limited  →  careers@larsentoubro.com
+2026-03-16 21:42:51,967 | INFO | Composing to careers@larsentoubro.com (attempt 1/3)
+2026-03-16 21:43:02,241 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 21:43:02,437 | INFO | Compose dialog detected: div[role='dialog']
+2026-03-16 21:43:05,055 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 21:43:07,223 | WARNING | Window/WebDriver error on attempt 1: Message: element not interactable
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1247dd3
+	0x1247e14
+	0x1051bee
+	0x1096e0f
+	0x109547b
+	0x10bea3c
+	0x10918c4
+	0x10bec04
+	0x10db621
+	0x10be7d6
+	0x1090049
+	0x1090e04
+	0x14a6924
+	0x14a1bf7
+	0x14bf5a0
+	0x1260f58
+	0x126891d
+	0x1250648
+	0x1250812
+	0x123a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:43:14,776 | INFO | Composing to careers@larsentoubro.com (attempt 2/3)
+2026-03-16 21:43:24,964 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 21:43:24,969 | INFO | Compose dialog detected: div[role='dialog']
+2026-03-16 21:43:27,582 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 21:43:29,740 | WARNING | Window/WebDriver error on attempt 2: Message: element not interactable
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1247dd3
+	0x1247e14
+	0x1051bee
+	0x1096e0f
+	0x109547b
+	0x10bea3c
+	0x10918c4
+	0x10bec04
+	0x10db621
+	0x10be7d6
+	0x1090049
+	0x1090e04
+	0x14a6924
+	0x14a1bf7
+	0x14bf5a0
+	0x1260f58
+	0x126891d
+	0x1250648
+	0x1250812
+	0x123a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:43:37,301 | INFO | Composing to careers@larsentoubro.com (attempt 3/3)
+2026-03-16 21:43:47,507 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 21:43:47,515 | INFO | Compose dialog detected: div[role='dialog']
+2026-03-16 21:43:50,130 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 21:43:52,283 | WARNING | Window/WebDriver error on attempt 3: Message: element not interactable
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1247dd3
+	0x1247e14
+	0x1051bee
+	0x1096e0f
+	0x109547b
+	0x10bea3c
+	0x10918c4
+	0x10bec04
+	0x10db621
+	0x10be7d6
+	0x1090049
+	0x1090e04
+	0x14a6924
+	0x14a1bf7
+	0x14bf5a0
+	0x1260f58
+	0x126891d
+	0x1250648
+	0x1250812
+	0x123a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:43:57,288 | ERROR | ✗ Failed to send → careers@larsentoubro.com after 3 attempts
+2026-03-16 21:43:57,441 | INFO | Screenshot saved: fail_careers.png
+2026-03-16 21:43:57,442 | INFO | Waiting 14.1s before next email...
+2026-03-16 21:44:11,525 | INFO | [  2/70] Aditya Birla Capital  →  careers@adityabirlacapital.com
+2026-03-16 21:44:14,069 | INFO | Composing to careers@adityabirlacapital.com (attempt 1/3)
+2026-03-16 21:44:24,276 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 21:44:24,282 | INFO | Compose dialog detected: div[role='dialog']
+2026-03-16 21:44:26,894 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 21:44:29,047 | WARNING | Window/WebDriver error on attempt 1: Message: element not interactable
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1247dd3
+	0x1247e14
+	0x1051bee
+	0x1096e0f
+	0x109547b
+	0x10bea3c
+	0x10918c4
+	0x10bec04
+	0x10db621
+	0x10be7d6
+	0x1090049
+	0x1090e04
+	0x14a6924
+	0x14a1bf7
+	0x14bf5a0
+	0x1260f58
+	0x126891d
+	0x1250648
+	0x1250812
+	0x123a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:44:36,599 | INFO | Composing to careers@adityabirlacapital.com (attempt 2/3)
+2026-03-16 21:44:46,796 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 21:44:46,801 | INFO | Compose dialog detected: div[role='dialog']
+2026-03-16 21:44:49,422 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 21:44:50,927 | INFO | Interrupted by user.
+2026-03-16 21:48:42,382 | INFO | ==========================================================
+2026-03-16 21:48:42,382 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:48:42,383 | INFO | ==========================================================
+2026-03-16 21:48:47,846 | INFO | Loaded 70 valid companies
+2026-03-16 21:48:47,846 | INFO | Chrome 145.0.7632.160 (major=145)
+2026-03-16 21:48:49,885 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:48:53,098 | CRITICAL | Fatal error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb07dd3
+	0xb07e14
+	0x911db0
+	0x8f08d3
+	0x9850fb
+	0x99b0d9
+	0x97e7d6
+	0x950049
+	0x950e04
+	0xd66924
+	0xd61bf7
+	0xd7f5a0
+	0xb20f58
+	0xb2891d
+	0xb10648
+	0xb10812
+	0xafa21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\gmail\selenium_email_sender.py", line 459, in main
+    driver = setup_driver()
+             ^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\selenium_email_sender.py", line 145, in setup_driver
+    driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {"source": """
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 141, in execute_cdp_cmd
+    return super().execute_cdp_cmd(cmd, cmd_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 423, in execute_cdp_cmd
+    return self.execute("executeCdpCommand", {"cmd": cmd, "params": cmd_args})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\admin\Desktop\gmail\fresh\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb07dd3
+	0xb07e14
+	0x911db0
+	0x8f08d3
+	0x9850fb
+	0x99b0d9
+	0x97e7d6
+	0x950049
+	0x950e04
+	0xd66924
+	0xd61bf7
+	0xd7f5a0
+	0xb20f58
+	0xb2891d
+	0xb10648
+	0xb10812
+	0xafa21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:49:14,541 | INFO | ==========================================================
+2026-03-16 21:49:14,542 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:49:14,542 | INFO | ==========================================================
+2026-03-16 21:49:21,262 | INFO | Loaded 70 valid companies
+2026-03-16 21:49:21,262 | INFO | Chrome 145.0.7632.160 (major=145)
+2026-03-16 21:49:22,462 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:49:37,505 | INFO | Login attempt 1/3
+2026-03-16 21:50:11,231 | ERROR | Login attempt 1 error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd67dd3
+	0xd67e14
+	0xb71db0
+	0xb508d3
+	0xbe50fb
+	0xbfb0d9
+	0xbde7d6
+	0xbb0049
+	0xbb0e04
+	0xfc6924
+	0xfc1bf7
+	0xfdf5a0
+	0xd80f58
+	0xd8891d
+	0xd70648
+	0xd70812
+	0xd5a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:50:16,233 | INFO | Login attempt 2/3
+2026-03-16 21:50:16,234 | ERROR | Login attempt 2 error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd67dd3
+	0xd67e14
+	0xb71db0
+	0xb508d3
+	0xbe50fb
+	0xbfb0d9
+	0xbde7d6
+	0xbb0049
+	0xbb0e04
+	0xfc6924
+	0xfc1bf7
+	0xfdf5a0
+	0xd80f58
+	0xd8891d
+	0xd70648
+	0xd70812
+	0xd5a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:50:21,234 | INFO | Login attempt 3/3
+2026-03-16 21:50:21,236 | ERROR | Login attempt 3 error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd67dd3
+	0xd67e14
+	0xb71db0
+	0xb508d3
+	0xbe50fb
+	0xbfb0d9
+	0xbde7d6
+	0xbb0049
+	0xbb0e04
+	0xfc6924
+	0xfc1bf7
+	0xfdf5a0
+	0xd80f58
+	0xd8891d
+	0xd70648
+	0xd70812
+	0xd5a21a
+	0x753c5d49
+	0x7770d81b
+	0x7770d7a1
+
+2026-03-16 21:50:26,237 | ERROR | Login failed.
+2026-03-16 21:51:43,643 | INFO | ==========================================================
+2026-03-16 21:51:43,643 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:51:43,643 | INFO | ==========================================================
+2026-03-16 21:52:01,577 | INFO | Loaded 70 valid companies
+2026-03-16 21:52:01,577 | INFO | Chrome 145.0.7632.160 (major=145)
+2026-03-16 21:52:03,441 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:52:18,166 | INFO | Login attempt 1/3
+2026-03-16 21:52:38,911 | INFO | Interrupted by user.
+2026-03-16 21:53:11,326 | INFO | ==========================================================
+2026-03-16 21:53:11,326 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:53:11,326 | INFO | ==========================================================
+2026-03-16 21:53:17,878 | INFO | Loaded 70 valid companies
+2026-03-16 21:53:17,878 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 21:53:19,037 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:53:33,877 | INFO | Login attempt 1/3...
+2026-03-16 21:53:58,534 | INFO | Managed profile notice — dismissing...
+2026-03-16 21:54:07,324 | INFO | Login successful!
+2026-03-16 21:54:07,335 | INFO | Session cookies saved.
+2026-03-16 21:54:07,340 | INFO | [  1/70] Larsen & Toubro Limited  →  careers@larsentoubro.com
+2026-03-16 21:54:09,901 | INFO | Composing to careers@larsentoubro.com (attempt 1/3)
+2026-03-16 21:54:20,151 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 21:54:20,356 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 21:54:22,369 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 21:54:31,844 | INFO | Chip not confirmed via XPath for careers@larsentoubro.com — proceeding
+2026-03-16 21:54:39,410 | INFO | Interrupted by user.
+2026-03-16 21:56:45,909 | INFO | ==========================================================
+2026-03-16 21:56:45,909 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 21:56:45,911 | INFO | ==========================================================
+2026-03-16 21:56:52,023 | INFO | Loaded 70 valid companies
+2026-03-16 21:56:52,023 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 21:56:54,028 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 21:57:08,531 | INFO | Login attempt 1/3...
+2026-03-16 21:57:32,980 | INFO | Managed profile notice — dismissing...
+2026-03-16 21:57:41,777 | INFO | Login successful!
+2026-03-16 21:57:41,784 | INFO | Session cookies saved.
+2026-03-16 21:57:41,790 | INFO | [  1/70] Larsen & Toubro Limited  →  careers@larsentoubro.com
+2026-03-16 21:57:44,354 | INFO | Composing to careers@larsentoubro.com (attempt 1/3)
+2026-03-16 21:57:54,576 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 21:57:54,784 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 21:57:56,795 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 21:58:00,972 | INFO | Recipient chip confirmed: careers@larsentoubro.com
+2026-03-16 21:58:09,900 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 21:58:10,409 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 21:58:11,993 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 21:58:15,013 | INFO | ✓ Confirmed sent → careers@larsentoubro.com
+2026-03-16 21:58:15,013 | INFO | Waiting 19.1s...
+2026-03-16 21:58:34,101 | INFO | [  2/70] Aditya Birla Capital  →  careers@adityabirlacapital.com
+2026-03-16 21:58:36,669 | INFO | Composing to careers@adityabirlacapital.com (attempt 1/3)
+2026-03-16 21:58:46,860 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 21:58:47,372 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 21:58:49,381 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 21:58:53,966 | INFO | Recipient chip confirmed: careers@adityabirlacapital.com
+2026-03-16 21:59:02,846 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 21:59:03,357 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 21:59:04,932 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 21:59:07,948 | INFO | ✓ Confirmed sent → careers@adityabirlacapital.com
+2026-03-16 21:59:07,948 | INFO | Waiting 13.0s...
+2026-03-16 21:59:20,989 | INFO | [  3/70] Godrej & Boyce  →  careers@godrej.com
+2026-03-16 21:59:23,887 | INFO | Composing to careers@godrej.com (attempt 1/3)
+2026-03-16 21:59:34,147 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 21:59:34,222 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 21:59:36,234 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 21:59:40,021 | INFO | Recipient chip confirmed: careers@godrej.com
+2026-03-16 21:59:49,006 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 21:59:49,513 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 21:59:51,072 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 21:59:54,085 | INFO | ✓ Confirmed sent → careers@godrej.com
+2026-03-16 21:59:54,085 | INFO | Waiting 19.5s...
+2026-03-16 22:00:01,855 | INFO | Interrupted by user.
+2026-03-16 22:03:06,478 | INFO | ==========================================================
+2026-03-16 22:03:06,479 | INFO |   Gmail Bulk Sender — Sathaye Career Conclave 2026
+2026-03-16 22:03:06,479 | INFO | ==========================================================
+2026-03-16 22:03:19,764 | INFO | Loaded 70 valid companies
+2026-03-16 22:03:19,764 | INFO | Detected Chrome 145.0.7632.160  (major=145)
+2026-03-16 22:03:21,400 | INFO | patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-16 22:03:42,620 | INFO | Login attempt 1/3...
+2026-03-16 22:04:07,001 | INFO | Managed profile notice — dismissing...
+2026-03-16 22:04:15,853 | INFO | Login successful!
+2026-03-16 22:04:15,862 | INFO | Session cookies saved.
+2026-03-16 22:04:15,868 | INFO | [  1/70] Larsen & Toubro Limited  →  careers@larsentoubro.com
+2026-03-16 22:04:18,430 | INFO | Composing to careers@larsentoubro.com (attempt 1/3)
+2026-03-16 22:04:28,636 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:04:28,839 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:04:30,849 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:04:35,201 | INFO | Recipient chip confirmed: careers@larsentoubro.com
+2026-03-16 22:04:44,222 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:04:44,731 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:04:46,331 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:04:49,348 | INFO | ✓ Confirmed sent → careers@larsentoubro.com
+2026-03-16 22:04:49,348 | INFO | Waiting 19.5s...
+2026-03-16 22:05:08,843 | INFO | [  2/70] Aditya Birla Capital  →  careers@adityabirlacapital.com
+2026-03-16 22:05:11,401 | INFO | Composing to careers@adityabirlacapital.com (attempt 1/3)
+2026-03-16 22:05:21,628 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:05:21,711 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:05:23,719 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:05:28,504 | INFO | Recipient chip confirmed: careers@adityabirlacapital.com
+2026-03-16 22:05:37,370 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:05:37,878 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:05:39,454 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:05:42,469 | INFO | ✓ Confirmed sent → careers@adityabirlacapital.com
+2026-03-16 22:05:42,469 | INFO | Waiting 15.7s...
+2026-03-16 22:05:58,216 | INFO | [  3/70] Godrej & Boyce  →  careers@godrej.com
+2026-03-16 22:06:01,124 | INFO | Composing to careers@godrej.com (attempt 1/3)
+2026-03-16 22:06:11,382 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:06:11,457 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:06:13,469 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:06:17,241 | INFO | Recipient chip confirmed: careers@godrej.com
+2026-03-16 22:06:26,028 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:06:26,535 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:06:28,104 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:06:31,121 | INFO | ✓ Confirmed sent → careers@godrej.com
+2026-03-16 22:06:31,121 | INFO | Waiting 14.6s...
+2026-03-16 22:06:45,722 | INFO | [  4/70] Mahindra & Mahindra  →  careers@mahindra.com
+2026-03-16 22:06:48,615 | INFO | Composing to careers@mahindra.com (attempt 1/3)
+2026-03-16 22:06:58,847 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:06:58,934 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:07:00,942 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:07:04,847 | INFO | Recipient chip confirmed: careers@mahindra.com
+2026-03-16 22:07:13,959 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:07:14,468 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:07:16,042 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:07:19,058 | INFO | ✓ Confirmed sent → careers@mahindra.com
+2026-03-16 22:07:19,058 | INFO | Waiting 12.8s...
+2026-03-16 22:07:31,851 | INFO | [  5/70] JSW Group  →  careers@jsw.in
+2026-03-16 22:07:34,742 | INFO | Composing to careers@jsw.in (attempt 1/3)
+2026-03-16 22:07:44,970 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:07:45,063 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:07:47,071 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:07:50,538 | INFO | Recipient chip confirmed: careers@jsw.in
+2026-03-16 22:07:59,409 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:07:59,916 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:08:01,489 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:08:04,504 | INFO | ✓ Confirmed sent → careers@jsw.in
+2026-03-16 22:08:04,504 | INFO | Waiting 13.7s...
+2026-03-16 22:08:18,182 | INFO | [  6/70] Tata AIA Life Insurance  →  careers@tataaia.com
+2026-03-16 22:08:21,087 | INFO | Composing to careers@tataaia.com (attempt 1/3)
+2026-03-16 22:08:31,360 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:08:31,452 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:08:33,461 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:08:37,206 | INFO | Recipient chip confirmed: careers@tataaia.com
+2026-03-16 22:08:46,086 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:08:46,591 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:08:48,158 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:08:51,172 | INFO | ✓ Confirmed sent → careers@tataaia.com
+2026-03-16 22:08:51,172 | INFO | Waiting 18.4s...
+2026-03-16 22:09:09,587 | INFO | [  7/70] Future Generali India Insurance  →  careers@futuregenerali.in
+2026-03-16 22:09:12,482 | INFO | Composing to careers@futuregenerali.in (attempt 1/3)
+2026-03-16 22:09:22,720 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:09:22,809 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:09:24,818 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:09:29,239 | INFO | Recipient chip confirmed: careers@futuregenerali.in
+2026-03-16 22:09:38,314 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:09:38,821 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:09:40,431 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:09:43,449 | INFO | ✓ Confirmed sent → careers@futuregenerali.in
+2026-03-16 22:09:43,449 | INFO | Waiting 15.7s...
+2026-03-16 22:09:59,112 | INFO | [  8/70] Reliance General Insurance  →  careers@reliancegeneral.co.in
+2026-03-16 22:10:02,023 | INFO | Composing to careers@reliancegeneral.co.in (attempt 1/3)
+2026-03-16 22:10:12,271 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:10:12,358 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:10:14,367 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:10:19,035 | INFO | Recipient chip confirmed: careers@reliancegeneral.co.in
+2026-03-16 22:10:28,186 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:10:28,693 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:10:30,286 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:10:33,300 | INFO | ✓ Confirmed sent → careers@reliancegeneral.co.in
+2026-03-16 22:10:33,300 | INFO | Waiting 15.0s...
+2026-03-16 22:10:48,290 | INFO | [  9/70] HDFC Asset Management Company  →  careers@hdfcfund.com
+2026-03-16 22:10:51,194 | INFO | Composing to careers@hdfcfund.com (attempt 1/3)
+2026-03-16 22:11:01,440 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:11:01,536 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:11:03,546 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:11:07,522 | INFO | Recipient chip confirmed: careers@hdfcfund.com
+2026-03-16 22:11:16,510 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:11:17,019 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:11:18,610 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:11:21,625 | INFO | ✓ Confirmed sent → careers@hdfcfund.com
+2026-03-16 22:11:21,625 | INFO | Waiting 18.6s...
+2026-03-16 22:11:40,227 | INFO | [ 10/70] ICICI Securities  →  careers@icicisecurities.com
+2026-03-16 22:11:43,147 | INFO | Composing to careers@icicisecurities.com (attempt 1/3)
+2026-03-16 22:11:53,398 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:11:53,491 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:11:55,500 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:12:00,126 | INFO | Recipient chip confirmed: careers@icicisecurities.com
+2026-03-16 22:12:09,022 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:12:09,528 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:12:11,138 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:12:14,153 | INFO | ✓ Confirmed sent → careers@icicisecurities.com
+2026-03-16 22:12:14,153 | INFO | Waiting 15.6s...
+2026-03-16 22:12:29,773 | INFO | [ 11/70] Motilal Oswal Asset Management  →  careers@motilaloswal.com
+2026-03-16 22:12:32,675 | INFO | Composing to careers@motilaloswal.com (attempt 1/3)
+2026-03-16 22:12:42,969 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:12:43,078 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:12:45,087 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:12:49,315 | INFO | Recipient chip confirmed: careers@motilaloswal.com
+2026-03-16 22:12:58,387 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:12:58,894 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:13:00,474 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:13:03,487 | INFO | ✓ Confirmed sent → careers@motilaloswal.com
+2026-03-16 22:13:03,488 | INFO | Waiting 17.9s...
+2026-03-16 22:13:21,384 | INFO | [ 12/70] Nippon India Mutual Fund  →  careers@nipponindiaim.com
+2026-03-16 22:13:24,288 | INFO | Composing to careers@nipponindiaim.com (attempt 1/3)
+2026-03-16 22:13:34,539 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:13:34,618 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:13:36,628 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:13:41,046 | INFO | Recipient chip confirmed: careers@nipponindiaim.com
+2026-03-16 22:13:50,188 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:13:50,694 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:13:52,274 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:13:55,289 | INFO | ✓ Confirmed sent → careers@nipponindiaim.com
+2026-03-16 22:13:55,289 | INFO | Waiting 18.1s...
+2026-03-16 22:14:13,340 | INFO | [ 13/70] SBI Mutual Fund  →  careers@sbimf.com
+2026-03-16 22:14:16,245 | INFO | Composing to careers@sbimf.com (attempt 1/3)
+2026-03-16 22:14:26,488 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:14:26,575 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:14:28,585 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:14:32,390 | INFO | Recipient chip confirmed: careers@sbimf.com
+2026-03-16 22:14:41,245 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:14:41,753 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:14:43,338 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:14:46,351 | INFO | ✓ Confirmed sent → careers@sbimf.com
+2026-03-16 22:14:46,351 | INFO | Waiting 12.0s...
+2026-03-16 22:14:58,357 | INFO | [ 14/70] Axis Securities  →  careers@axisdirect.in
+2026-03-16 22:15:01,277 | INFO | Composing to careers@axisdirect.in (attempt 1/3)
+2026-03-16 22:15:11,530 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:15:11,652 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:15:13,662 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:15:17,799 | INFO | Recipient chip confirmed: careers@axisdirect.in
+2026-03-16 22:15:26,730 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:15:27,239 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:15:28,837 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:15:31,853 | INFO | ✓ Confirmed sent → careers@axisdirect.in
+2026-03-16 22:15:31,853 | INFO | Waiting 17.5s...
+2026-03-16 22:15:49,344 | INFO | [ 15/70] Sharekhan Limited  →  careers@sharekhan.com
+2026-03-16 22:15:52,244 | INFO | Composing to careers@sharekhan.com (attempt 1/3)
+2026-03-16 22:16:02,523 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:16:02,685 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:16:04,696 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:16:08,741 | INFO | Recipient chip confirmed: careers@sharekhan.com
+2026-03-16 22:16:17,533 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:16:18,041 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:16:19,631 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:16:22,646 | INFO | ✓ Confirmed sent → careers@sharekhan.com
+2026-03-16 22:16:22,647 | INFO | Waiting 19.5s...
+2026-03-16 22:16:42,137 | INFO | [ 16/70] ICICI Lombard  →  careers@icicilombard.com
+2026-03-16 22:16:44,690 | INFO | Composing to careers@icicilombard.com (attempt 1/3)
+2026-03-16 22:16:54,934 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:16:55,036 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:16:57,044 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:17:01,389 | INFO | Recipient chip confirmed: careers@icicilombard.com
+2026-03-16 22:17:10,321 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:17:10,830 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:17:12,409 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:17:15,422 | INFO | ✓ Confirmed sent → careers@icicilombard.com
+2026-03-16 22:17:15,422 | INFO | Waiting 18.5s...
+2026-03-16 22:17:33,940 | INFO | [ 17/70] HDFC ERGO Insurance  →  careers@hdfcergo.com
+2026-03-16 22:17:36,882 | INFO | Composing to careers@hdfcergo.com (attempt 1/3)
+2026-03-16 22:17:47,174 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:17:47,270 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:17:49,283 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:17:53,313 | INFO | Recipient chip confirmed: careers@hdfcergo.com
+2026-03-16 22:18:02,435 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:18:02,945 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:18:04,539 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:18:07,556 | INFO | ✓ Confirmed sent → careers@hdfcergo.com
+2026-03-16 22:18:07,557 | INFO | Waiting 18.7s...
+2026-03-16 22:18:26,236 | INFO | [ 18/70] Tata Investment Corporation  →  careers@tatainvestment.com
+2026-03-16 22:18:29,138 | INFO | Composing to careers@tatainvestment.com (attempt 1/3)
+2026-03-16 22:18:39,395 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:18:39,499 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:18:41,509 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:18:45,905 | INFO | Recipient chip confirmed: careers@tatainvestment.com
+2026-03-16 22:18:55,189 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:18:55,696 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:18:57,281 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:19:00,295 | INFO | ✓ Confirmed sent → careers@tatainvestment.com
+2026-03-16 22:19:00,296 | INFO | Waiting 20.0s...
+2026-03-16 22:19:20,258 | INFO | [ 19/70] Reliance Nippon Life Insurance  →  careers@reliancenipponlife.com
+2026-03-16 22:19:22,815 | INFO | Composing to careers@reliancenipponlife.com (attempt 1/3)
+2026-03-16 22:19:33,085 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:19:33,170 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:19:35,182 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:19:39,985 | INFO | Recipient chip confirmed: careers@reliancenipponlife.com
+2026-03-16 22:19:49,201 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:19:49,708 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:19:51,290 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:19:54,304 | INFO | ✓ Confirmed sent → careers@reliancenipponlife.com
+2026-03-16 22:19:54,304 | INFO | Waiting 16.7s...
+2026-03-16 22:20:10,972 | INFO | [ 20/70] JM Financial Asset Management  →  careers@jmfl.com
+2026-03-16 22:20:13,879 | INFO | Composing to careers@jmfl.com (attempt 1/3)
+2026-03-16 22:20:24,151 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:20:24,248 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:20:26,259 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:20:30,101 | INFO | Recipient chip confirmed: careers@jmfl.com
+2026-03-16 22:20:39,432 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:20:39,939 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:20:41,523 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:20:44,538 | INFO | ✓ Confirmed sent → careers@jmfl.com
+2026-03-16 22:20:44,539 | INFO | Waiting 17.7s...
+2026-03-16 22:21:02,229 | INFO | [ 21/70] HDFC Securities  →  careers@hdfcsec.com
+2026-03-16 22:21:05,135 | INFO | Composing to careers@hdfcsec.com (attempt 1/3)
+2026-03-16 22:21:15,392 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:21:15,480 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:21:17,490 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:21:21,440 | INFO | Recipient chip confirmed: careers@hdfcsec.com
+2026-03-16 22:21:30,338 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:21:30,846 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:21:32,427 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:21:35,441 | INFO | ✓ Confirmed sent → careers@hdfcsec.com
+2026-03-16 22:21:35,441 | INFO | Waiting 15.2s...
+2026-03-16 22:21:50,679 | INFO | [ 22/70] IIFL Securities  →  careers@iifl.com
+2026-03-16 22:21:53,588 | INFO | Composing to careers@iifl.com (attempt 1/3)
+2026-03-16 22:22:03,775 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:22:04,287 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:22:06,297 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:22:09,813 | INFO | Recipient chip confirmed: careers@iifl.com
+2026-03-16 22:22:18,782 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:22:19,290 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:22:20,830 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:22:23,845 | INFO | ✓ Confirmed sent → careers@iifl.com
+2026-03-16 22:22:23,845 | INFO | Waiting 13.6s...
+2026-03-16 22:22:37,479 | INFO | [ 23/70] ICICI Venture  →  careers@iciciventure.com
+2026-03-16 22:22:40,367 | INFO | Composing to careers@iciciventure.com (attempt 1/3)
+2026-03-16 22:22:50,558 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:22:51,069 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:22:53,080 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:22:57,364 | INFO | Recipient chip confirmed: careers@iciciventure.com
+2026-03-16 22:23:06,624 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:23:07,131 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:23:08,676 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:23:11,692 | INFO | ✓ Confirmed sent → careers@iciciventure.com
+2026-03-16 22:23:11,692 | INFO | Waiting 18.1s...
+2026-03-16 22:23:29,746 | INFO | [ 24/70] Avendus Capital  →  careers@avendus.com
+2026-03-16 22:23:32,662 | INFO | Composing to careers@avendus.com (attempt 1/3)
+2026-03-16 22:23:42,871 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:23:43,383 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:23:45,399 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:23:49,267 | INFO | Recipient chip confirmed: careers@avendus.com
+2026-03-16 22:23:58,045 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:23:58,552 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:24:00,094 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:24:03,109 | INFO | ✓ Confirmed sent → careers@avendus.com
+2026-03-16 22:24:03,109 | INFO | Waiting 13.9s...
+2026-03-16 22:24:17,037 | INFO | [ 25/70] Axis Capital  →  careers@axiscapital.co.in
+2026-03-16 22:24:19,932 | INFO | Composing to careers@axiscapital.co.in (attempt 1/3)
+2026-03-16 22:24:30,122 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:24:30,633 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:24:32,642 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:24:36,855 | INFO | Recipient chip confirmed: careers@axiscapital.co.in
+2026-03-16 22:24:45,755 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:24:46,261 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:24:47,825 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:24:50,840 | INFO | ✓ Confirmed sent → careers@axiscapital.co.in
+2026-03-16 22:24:50,841 | INFO | Waiting 16.2s...
+2026-03-16 22:25:07,060 | INFO | [ 26/70] Edelweiss Wealth Management  →  careers@edelweissfin.com
+2026-03-16 22:25:09,968 | INFO | Composing to careers@edelweissfin.com (attempt 1/3)
+2026-03-16 22:25:20,166 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:25:20,678 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:25:22,690 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:25:27,016 | INFO | Recipient chip confirmed: careers@edelweissfin.com
+2026-03-16 22:25:35,667 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:25:36,176 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:25:37,740 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:25:40,757 | INFO | ✓ Confirmed sent → careers@edelweissfin.com
+2026-03-16 22:25:40,758 | INFO | Waiting 15.6s...
+2026-03-16 22:25:56,358 | INFO | [ 27/70] Kotak Securities  →  careers@kotak.com
+2026-03-16 22:25:59,267 | INFO | Composing to careers@kotak.com (attempt 1/3)
+2026-03-16 22:26:09,464 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:26:09,978 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:26:11,987 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:26:15,596 | INFO | Recipient chip confirmed: careers@kotak.com
+2026-03-16 22:26:24,435 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:26:24,942 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:26:26,488 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:26:29,502 | INFO | ✓ Confirmed sent → careers@kotak.com
+2026-03-16 22:26:29,502 | INFO | Waiting 17.7s...
+2026-03-16 22:26:47,192 | INFO | [ 28/70] Reliance Retail Finance  →  careers@ril.com
+2026-03-16 22:26:50,087 | INFO | Composing to careers@ril.com (attempt 1/3)
+2026-03-16 22:27:00,272 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:27:00,784 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:27:02,792 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:27:06,286 | INFO | Recipient chip confirmed: careers@ril.com
+2026-03-16 22:27:15,252 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:27:15,758 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:27:17,306 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:27:20,322 | INFO | ✓ Confirmed sent → careers@ril.com
+2026-03-16 22:27:20,322 | INFO | Waiting 13.4s...
+2026-03-16 22:27:33,708 | INFO | [ 29/70] Morgan Stanley India  →  careers@morganstanley.com
+2026-03-16 22:27:36,601 | INFO | Composing to careers@morganstanley.com (attempt 1/3)
+2026-03-16 22:27:46,790 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:27:47,301 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:27:49,312 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:27:53,564 | INFO | Recipient chip confirmed: careers@morganstanley.com
+2026-03-16 22:28:02,499 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:28:03,007 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:28:04,561 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:28:07,576 | INFO | ✓ Confirmed sent → careers@morganstanley.com
+2026-03-16 22:28:07,576 | INFO | Waiting 12.7s...
+2026-03-16 22:28:20,296 | INFO | [ 30/70] Goldman Sachs India  →  careers@gs.com
+2026-03-16 22:28:23,212 | INFO | Composing to careers@gs.com (attempt 1/3)
+2026-03-16 22:28:33,400 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:28:33,916 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:28:35,924 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:28:39,348 | INFO | Recipient chip confirmed: careers@gs.com
+2026-03-16 22:28:48,295 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:28:48,802 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:28:50,363 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:28:53,378 | INFO | ✓ Confirmed sent → careers@gs.com
+2026-03-16 22:28:53,379 | INFO | Waiting 18.7s...
+2026-03-16 22:29:12,125 | INFO | [ 31/70] Barclays India  →  careers@barclays.com
+2026-03-16 22:29:15,015 | INFO | Composing to careers@barclays.com (attempt 1/3)
+2026-03-16 22:29:25,198 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:29:25,710 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:29:27,719 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:29:31,552 | INFO | Recipient chip confirmed: careers@barclays.com
+2026-03-16 22:29:40,235 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:29:40,741 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:29:42,290 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:29:45,303 | INFO | ✓ Confirmed sent → careers@barclays.com
+2026-03-16 22:29:45,304 | INFO | Waiting 17.9s...
+2026-03-16 22:30:03,241 | INFO | [ 32/70] Deutsche Bank India  →  careers.db@db.com
+2026-03-16 22:30:06,137 | INFO | Composing to careers.db@db.com (attempt 1/3)
+2026-03-16 22:30:16,330 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:30:16,842 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:30:18,852 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:30:22,460 | INFO | Recipient chip confirmed: careers.db@db.com
+2026-03-16 22:30:31,273 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:30:31,781 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:30:33,355 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:30:36,370 | INFO | ✓ Confirmed sent → careers.db@db.com
+2026-03-16 22:30:36,371 | INFO | Waiting 13.1s...
+2026-03-16 22:30:49,517 | INFO | [ 33/70] HSBC India  →  careers@hsbc.co.in
+2026-03-16 22:30:52,437 | INFO | Composing to careers@hsbc.co.in (attempt 1/3)
+2026-03-16 22:31:02,652 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:31:03,165 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:31:05,177 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:31:09,048 | INFO | Recipient chip confirmed: careers@hsbc.co.in
+2026-03-16 22:31:18,047 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:31:18,553 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:31:20,116 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:31:23,137 | INFO | ✓ Confirmed sent → careers@hsbc.co.in
+2026-03-16 22:31:23,138 | INFO | Waiting 15.4s...
+2026-03-16 22:31:38,565 | INFO | [ 34/70] Standard Chartered Bank India  →  careers@sc.com
+2026-03-16 22:31:41,466 | INFO | Composing to careers@sc.com (attempt 1/3)
+2026-03-16 22:31:51,660 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:31:52,175 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:31:54,185 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:31:57,470 | INFO | Recipient chip confirmed: careers@sc.com
+2026-03-16 22:32:06,786 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:32:07,293 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:32:08,853 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:32:11,868 | INFO | ✓ Confirmed sent → careers@sc.com
+2026-03-16 22:32:11,869 | INFO | Waiting 19.9s...
+2026-03-16 22:32:31,744 | INFO | [ 35/70] Citibank India  →  careers@citi.com
+2026-03-16 22:32:34,641 | INFO | Composing to careers@citi.com (attempt 1/3)
+2026-03-16 22:32:44,842 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:32:45,354 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:32:47,364 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:32:50,866 | INFO | Recipient chip confirmed: careers@citi.com
+2026-03-16 22:32:59,836 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:33:00,345 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:33:01,926 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:33:04,946 | INFO | ✓ Confirmed sent → careers@citi.com
+2026-03-16 22:33:04,946 | INFO | Waiting 19.2s...
+2026-03-16 22:33:24,097 | INFO | [ 36/70] UBS India  →  careers@ubs.com
+2026-03-16 22:33:27,001 | INFO | Composing to careers@ubs.com (attempt 1/3)
+2026-03-16 22:33:37,196 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:33:37,708 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:33:39,716 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:33:43,268 | INFO | Recipient chip confirmed: careers@ubs.com
+2026-03-16 22:33:52,295 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:33:52,804 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:33:54,363 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:33:57,378 | INFO | ✓ Confirmed sent → careers@ubs.com
+2026-03-16 22:33:57,378 | INFO | Waiting 15.6s...
+2026-03-16 22:34:12,940 | INFO | [ 37/70] Nomura India  →  careers@nomura.com
+2026-03-16 22:34:15,503 | INFO | Composing to careers@nomura.com (attempt 1/3)
+2026-03-16 22:34:25,711 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:34:26,226 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:34:28,235 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:34:31,883 | INFO | Recipient chip confirmed: careers@nomura.com
+2026-03-16 22:34:40,899 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:34:41,408 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:34:42,986 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:34:46,000 | INFO | ✓ Confirmed sent → careers@nomura.com
+2026-03-16 22:34:46,000 | INFO | Waiting 12.7s...
+2026-03-16 22:34:58,684 | INFO | [ 38/70] Jefferies India  →  careers@jefferies.com
+2026-03-16 22:35:01,603 | INFO | Composing to careers@jefferies.com (attempt 1/3)
+2026-03-16 22:35:11,813 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:35:12,334 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:35:14,342 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:35:18,188 | INFO | Recipient chip confirmed: careers@jefferies.com
+2026-03-16 22:35:26,934 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:35:27,441 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:35:29,015 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:35:32,035 | INFO | ✓ Confirmed sent → careers@jefferies.com
+2026-03-16 22:35:32,035 | INFO | Waiting 13.8s...
+2026-03-16 22:35:45,831 | INFO | [ 39/70] Grant Thornton India  →  careers@in.gt.com
+2026-03-16 22:35:48,729 | INFO | Composing to careers@in.gt.com (attempt 1/3)
+2026-03-16 22:35:58,927 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:35:59,441 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:36:01,450 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:36:05,173 | INFO | Recipient chip confirmed: careers@in.gt.com
+2026-03-16 22:36:14,025 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:36:14,531 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:36:16,090 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:36:19,103 | INFO | ✓ Confirmed sent → careers@in.gt.com
+2026-03-16 22:36:19,104 | INFO | Waiting 16.5s...
+2026-03-16 22:36:35,598 | INFO | [ 40/70] RSM India  →  careers@rsmindia.in
+2026-03-16 22:36:38,496 | INFO | Composing to careers@rsmindia.in (attempt 1/3)
+2026-03-16 22:36:48,705 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:36:49,225 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:36:51,235 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:36:55,034 | INFO | Recipient chip confirmed: careers@rsmindia.in
+2026-03-16 22:37:03,626 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:37:04,132 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:37:05,685 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:37:08,701 | INFO | ✓ Confirmed sent → careers@rsmindia.in
+2026-03-16 22:37:08,701 | INFO | Waiting 16.1s...
+2026-03-16 22:37:24,832 | INFO | [ 41/70] MSKA & Associates  →  careers@mska.in
+2026-03-16 22:37:27,387 | INFO | Composing to careers@mska.in (attempt 1/3)
+2026-03-16 22:37:37,651 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:37:38,164 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:37:40,174 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:37:43,606 | INFO | Recipient chip confirmed: careers@mska.in
+2026-03-16 22:37:52,253 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:37:52,760 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:37:54,330 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:37:57,345 | INFO | ✓ Confirmed sent → careers@mska.in
+2026-03-16 22:37:57,345 | INFO | Waiting 17.8s...
+2026-03-16 22:38:15,137 | INFO | [ 42/70] Haribhakti & Co LLP  →  careers@haribhakti.com
+2026-03-16 22:38:17,692 | INFO | Composing to careers@haribhakti.com (attempt 1/3)
+2026-03-16 22:38:27,888 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:38:28,408 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:38:30,417 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:38:34,448 | INFO | Recipient chip confirmed: careers@haribhakti.com
+2026-03-16 22:38:43,672 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:38:44,178 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:38:45,748 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:38:48,764 | INFO | ✓ Confirmed sent → careers@haribhakti.com
+2026-03-16 22:38:48,765 | INFO | Waiting 14.6s...
+2026-03-16 22:39:03,389 | INFO | [ 43/70] MGB & Co LLP  →  careers@mgbco.com
+2026-03-16 22:39:05,952 | INFO | Composing to careers@mgbco.com (attempt 1/3)
+2026-03-16 22:39:16,163 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:39:16,676 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:39:18,685 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:39:22,296 | INFO | Recipient chip confirmed: careers@mgbco.com
+2026-03-16 22:39:31,599 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:39:32,105 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:39:33,663 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:39:36,680 | INFO | ✓ Confirmed sent → careers@mgbco.com
+2026-03-16 22:39:36,680 | INFO | Waiting 15.3s...
+2026-03-16 22:39:51,963 | INFO | [ 44/70] Lodha & Co  →  careers@lodhaco.com
+2026-03-16 22:39:54,878 | INFO | Composing to careers@lodhaco.com (attempt 1/3)
+2026-03-16 22:40:05,070 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:40:05,582 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:40:07,591 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:40:11,306 | INFO | Recipient chip confirmed: careers@lodhaco.com
+2026-03-16 22:40:20,336 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:40:20,844 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:40:22,400 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:40:25,415 | INFO | ✓ Confirmed sent → careers@lodhaco.com
+2026-03-16 22:40:25,415 | INFO | Waiting 12.8s...
+2026-03-16 22:40:38,232 | INFO | [ 45/70] Bansi S Mehta & Co  →  careers@bsmehta.com
+2026-03-16 22:40:41,130 | INFO | Composing to careers@bsmehta.com (attempt 1/3)
+2026-03-16 22:40:51,325 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:40:51,837 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:40:53,846 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:40:57,747 | INFO | Recipient chip confirmed: careers@bsmehta.com
+2026-03-16 22:41:06,939 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:41:07,446 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:41:09,004 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:41:12,019 | INFO | ✓ Confirmed sent → careers@bsmehta.com
+2026-03-16 22:41:12,019 | INFO | Waiting 15.4s...
+2026-03-16 22:41:27,415 | INFO | [ 46/70] Sharp & Tannan  →  careers@sharpandtannan.com
+2026-03-16 22:41:30,312 | INFO | Composing to careers@sharpandtannan.com (attempt 1/3)
+2026-03-16 22:41:40,603 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:41:41,116 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:41:43,125 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:41:47,530 | INFO | Recipient chip confirmed: careers@sharpandtannan.com
+2026-03-16 22:41:56,717 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:41:57,224 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:41:58,781 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:42:01,795 | INFO | ✓ Confirmed sent → careers@sharpandtannan.com
+2026-03-16 22:42:01,795 | INFO | Waiting 17.9s...
+2026-03-16 22:42:19,739 | INFO | [ 47/70] Gokhale & Sathe  →  careers@gokhalesathe.in
+2026-03-16 22:42:22,295 | INFO | Composing to careers@gokhalesathe.in (attempt 1/3)
+2026-03-16 22:42:32,495 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:42:33,009 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:42:35,017 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:42:39,070 | INFO | Recipient chip confirmed: careers@gokhalesathe.in
+2026-03-16 22:42:48,145 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:42:48,651 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:42:50,215 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:42:53,228 | INFO | ✓ Confirmed sent → careers@gokhalesathe.in
+2026-03-16 22:42:53,229 | INFO | Waiting 15.5s...
+2026-03-16 22:43:08,720 | INFO | [ 48/70] Chokshi & Chokshi LLP  →  careers@chokshiandchokshi.com
+2026-03-16 22:43:11,277 | INFO | Composing to careers@chokshiandchokshi.com (attempt 1/3)
+2026-03-16 22:43:21,485 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:43:21,997 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:43:24,005 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:43:28,469 | INFO | Recipient chip confirmed: careers@chokshiandchokshi.com
+2026-03-16 22:43:37,485 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:43:37,993 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:43:39,569 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:43:42,586 | INFO | ✓ Confirmed sent → careers@chokshiandchokshi.com
+2026-03-16 22:43:42,586 | INFO | Waiting 17.8s...
+2026-03-16 22:44:00,418 | INFO | [ 49/70] Deloitte India (Mumbai Office)  →  careers@deloitte.com
+2026-03-16 22:44:03,334 | INFO | Composing to careers@deloitte.com (attempt 1/3)
+2026-03-16 22:44:13,585 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:44:13,685 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:44:15,694 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:44:19,688 | INFO | Recipient chip confirmed: careers@deloitte.com
+2026-03-16 22:44:28,930 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:44:29,437 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:44:31,024 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:44:34,041 | INFO | ✓ Confirmed sent → careers@deloitte.com
+2026-03-16 22:44:34,041 | INFO | Waiting 12.6s...
+2026-03-16 22:44:46,690 | INFO | [ 50/70] EY India (Mumbai Office)  →  careers@ey.com
+2026-03-16 22:44:49,595 | INFO | Composing to careers@ey.com (attempt 1/3)
+2026-03-16 22:44:59,847 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:44:59,935 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:45:01,944 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:45:05,414 | INFO | Recipient chip confirmed: careers@ey.com
+2026-03-16 22:45:14,376 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:45:14,883 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:45:16,460 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:45:19,473 | INFO | ✓ Confirmed sent → careers@ey.com
+2026-03-16 22:45:19,474 | INFO | Waiting 18.9s...
+2026-03-16 22:45:38,346 | INFO | [ 51/70] PwC India (Mumbai Office)  →  careers@pwc.com
+2026-03-16 22:45:41,262 | INFO | Composing to careers@pwc.com (attempt 1/3)
+2026-03-16 22:45:51,513 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:45:51,597 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:45:53,607 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:45:57,170 | INFO | Recipient chip confirmed: careers@pwc.com
+2026-03-16 22:46:06,382 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:46:06,888 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:46:08,466 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:46:11,479 | INFO | ✓ Confirmed sent → careers@pwc.com
+2026-03-16 22:46:11,480 | INFO | Waiting 19.8s...
+2026-03-16 22:46:31,252 | INFO | [ 52/70] KPMG India (Mumbai Office)  →  careers@kpmg.com
+2026-03-16 22:46:33,808 | INFO | Composing to careers@kpmg.com (attempt 1/3)
+2026-03-16 22:46:44,065 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:46:44,145 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:46:46,155 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:46:49,948 | INFO | Recipient chip confirmed: careers@kpmg.com
+2026-03-16 22:46:58,918 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:46:59,426 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:47:01,004 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:47:04,018 | INFO | ✓ Confirmed sent → careers@kpmg.com
+2026-03-16 22:47:04,018 | INFO | Waiting 18.9s...
+2026-03-16 22:47:22,934 | INFO | [ 53/70] Protiviti India  →  careers@protiviti.in
+2026-03-16 22:47:25,492 | INFO | Composing to careers@protiviti.in (attempt 1/3)
+2026-03-16 22:47:35,747 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:47:35,820 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:47:37,830 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:47:41,835 | INFO | Recipient chip confirmed: careers@protiviti.in
+2026-03-16 22:47:51,052 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:47:51,559 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:47:53,135 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:47:56,151 | INFO | ✓ Confirmed sent → careers@protiviti.in
+2026-03-16 22:47:56,151 | INFO | Waiting 12.1s...
+2026-03-16 22:48:08,269 | INFO | [ 54/70] Nangia Andersen  →  careers@nangia.com
+2026-03-16 22:48:11,195 | INFO | Composing to careers@nangia.com (attempt 1/3)
+2026-03-16 22:48:21,451 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:48:21,529 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:48:23,539 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:48:27,386 | INFO | Recipient chip confirmed: careers@nangia.com
+2026-03-16 22:48:36,507 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:48:37,015 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:48:38,572 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:48:41,587 | INFO | ✓ Confirmed sent → careers@nangia.com
+2026-03-16 22:48:41,587 | INFO | Waiting 16.0s...
+2026-03-16 22:48:57,540 | INFO | [ 55/70] Walker Chandiok & Co LLP  →  careers@walkerchandiok.com
+2026-03-16 22:49:00,441 | INFO | Composing to careers@walkerchandiok.com (attempt 1/3)
+2026-03-16 22:49:10,635 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:49:11,147 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:49:13,155 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:49:17,501 | INFO | Recipient chip confirmed: careers@walkerchandiok.com
+2026-03-16 22:49:26,733 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:49:27,240 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:49:28,785 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:49:31,800 | INFO | ✓ Confirmed sent → careers@walkerchandiok.com
+2026-03-16 22:49:31,800 | INFO | Waiting 19.8s...
+2026-03-16 22:49:51,626 | INFO | [ 56/70] Singhi & Co  →  careers@singhico.com
+2026-03-16 22:49:54,186 | INFO | Composing to careers@singhico.com (attempt 1/3)
+2026-03-16 22:50:04,389 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:50:04,902 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:50:06,911 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:50:10,816 | INFO | Recipient chip confirmed: careers@singhico.com
+2026-03-16 22:50:19,690 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:50:20,197 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:50:21,769 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:50:24,783 | INFO | ✓ Confirmed sent → careers@singhico.com
+2026-03-16 22:50:24,783 | INFO | Waiting 12.6s...
+2026-03-16 22:50:37,355 | INFO | [ 57/70] SS Kothari Mehta & Co  →  careers@sskmin.com
+2026-03-16 22:50:40,455 | INFO | Composing to careers@sskmin.com (attempt 1/3)
+2026-03-16 22:50:50,653 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:50:51,166 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:50:53,174 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:50:56,863 | INFO | Recipient chip confirmed: careers@sskmin.com
+2026-03-16 22:51:05,755 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:51:06,265 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:51:07,848 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:51:10,875 | INFO | ✓ Confirmed sent → careers@sskmin.com
+2026-03-16 22:51:10,875 | INFO | Waiting 13.1s...
+2026-03-16 22:51:23,999 | INFO | [ 58/70] TR Chadha & Co LLP  →  careers@trchadha.com
+2026-03-16 22:51:26,998 | INFO | Composing to careers@trchadha.com (attempt 1/3)
+2026-03-16 22:51:37,281 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:51:37,358 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:51:39,375 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:51:43,370 | INFO | Recipient chip confirmed: careers@trchadha.com
+2026-03-16 22:51:52,391 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:51:52,898 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:51:54,452 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:51:57,468 | INFO | ✓ Confirmed sent → careers@trchadha.com
+2026-03-16 22:51:57,468 | INFO | Waiting 15.0s...
+2026-03-16 22:52:12,479 | INFO | [ 59/70] SP Chopra & Co  →  careers@spcnc.com
+2026-03-16 22:52:15,452 | INFO | Composing to careers@spcnc.com (attempt 1/3)
+2026-03-16 22:52:25,638 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:52:26,149 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:52:28,202 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:52:36,868 | INFO | Chip not confirmed via XPath for careers@spcnc.com — proceeding
+2026-03-16 22:52:45,542 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:52:46,050 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:52:47,598 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:52:50,612 | INFO | ✓ Confirmed sent → careers@spcnc.com
+2026-03-16 22:52:50,612 | INFO | Waiting 13.8s...
+2026-03-16 22:53:04,456 | INFO | [ 60/70] SN Dhawan & Co LLP  →  careers@sndhawan.com
+2026-03-16 22:53:07,487 | INFO | Composing to careers@sndhawan.com (attempt 1/3)
+2026-03-16 22:53:17,674 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:53:18,186 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:53:20,235 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:53:29,132 | INFO | Chip not confirmed via XPath for careers@sndhawan.com — proceeding
+2026-03-16 22:53:38,114 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:53:38,620 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:53:40,163 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:53:43,177 | INFO | ✓ Confirmed sent → careers@sndhawan.com
+2026-03-16 22:53:43,179 | INFO | Waiting 14.0s...
+2026-03-16 22:53:57,174 | INFO | [ 61/70] Suresh Surana & Associates  →  careers@sureshsurana.com
+2026-03-16 22:54:00,138 | INFO | Composing to careers@sureshsurana.com (attempt 1/3)
+2026-03-16 22:54:10,328 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:54:10,840 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:54:12,897 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:54:17,153 | INFO | Recipient chip confirmed: careers@sureshsurana.com
+2026-03-16 22:54:25,852 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:54:26,362 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:54:27,911 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:54:30,929 | INFO | ✓ Confirmed sent → careers@sureshsurana.com
+2026-03-16 22:54:30,929 | INFO | Waiting 16.0s...
+2026-03-16 22:54:46,895 | INFO | [ 62/70] Jain & Jain  →  careers@jainandjain.com
+2026-03-16 22:54:49,845 | INFO | Composing to careers@jainandjain.com (attempt 1/3)
+2026-03-16 22:55:00,042 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:55:00,554 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:55:02,610 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:55:06,854 | INFO | Recipient chip confirmed: careers@jainandjain.com
+2026-03-16 22:55:16,250 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:55:16,757 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:55:18,305 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:55:21,319 | INFO | ✓ Confirmed sent → careers@jainandjain.com
+2026-03-16 22:55:21,319 | INFO | Waiting 13.5s...
+2026-03-16 22:55:34,855 | INFO | [ 63/70] Gupta Saharia & Co  →  careers@guptasaharia.com
+2026-03-16 22:55:37,811 | INFO | Composing to careers@guptasaharia.com (attempt 1/3)
+2026-03-16 22:55:48,050 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:55:48,563 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:55:50,619 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:55:54,879 | INFO | Recipient chip confirmed: careers@guptasaharia.com
+2026-03-16 22:56:03,791 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:56:04,298 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:56:05,865 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:56:08,879 | INFO | ✓ Confirmed sent → careers@guptasaharia.com
+2026-03-16 22:56:08,879 | INFO | Waiting 19.2s...
+2026-03-16 22:56:28,120 | INFO | [ 64/70] GMJ & Co  →  careers@gmj.co.in
+2026-03-16 22:56:30,665 | INFO | Composing to careers@gmj.co.in (attempt 1/3)
+2026-03-16 22:56:40,886 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:56:40,954 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:56:42,964 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:56:46,670 | INFO | Recipient chip confirmed: careers@gmj.co.in
+2026-03-16 22:56:55,684 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:56:56,191 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:56:57,783 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:57:00,795 | INFO | ✓ Confirmed sent → careers@gmj.co.in
+2026-03-16 22:57:00,796 | INFO | Waiting 13.1s...
+2026-03-16 22:57:13,893 | INFO | [ 65/70] BDO India (Mumbai)  →  careers@bdo.in
+2026-03-16 22:57:16,780 | INFO | Composing to careers@bdo.in (attempt 1/3)
+2026-03-16 22:57:27,018 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:57:27,125 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:57:29,134 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:57:32,654 | INFO | Recipient chip confirmed: careers@bdo.in
+2026-03-16 22:57:41,642 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:57:42,147 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:57:43,711 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:57:46,724 | INFO | ✓ Confirmed sent → careers@bdo.in
+2026-03-16 22:57:46,724 | INFO | Waiting 12.9s...
+2026-03-16 22:57:59,653 | INFO | [ 66/70] Razorpay Mumbai Office  →  careers@razorpay.com
+2026-03-16 22:58:02,540 | INFO | Composing to careers@razorpay.com (attempt 1/3)
+2026-03-16 22:58:12,772 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:58:12,843 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:58:14,852 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:58:18,710 | INFO | Recipient chip confirmed: careers@razorpay.com
+2026-03-16 22:58:27,918 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:58:28,425 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:58:29,989 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 22:58:33,003 | INFO | ✓ Confirmed sent → careers@razorpay.com
+2026-03-16 22:58:33,003 | INFO | Waiting 12.1s...
+2026-03-16 22:58:45,120 | INFO | [ 67/70] PayU India  →  careers@payu.in
+2026-03-16 22:58:48,009 | INFO | Composing to careers@payu.in (attempt 1/3)
+2026-03-16 22:58:58,232 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 22:58:58,296 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 22:59:00,305 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 22:59:03,843 | INFO | Recipient chip confirmed: careers@payu.in
+2026-03-16 22:59:13,429 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 22:59:14,057 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 22:59:41,262 | INFO | Send button not found — CDP Ctrl+Enter
+2026-03-16 22:59:44,326 | INFO | ✓ Confirmed sent → careers@payu.in
+2026-03-16 22:59:44,326 | INFO | Waiting 12.0s...
+2026-03-16 22:59:56,342 | INFO | [ 68/70] BillDesk  →  careers@billdesk.com
+2026-03-16 22:59:58,908 | INFO | Composing to careers@billdesk.com (attempt 1/3)
+2026-03-16 23:00:39,677 | WARNING | Window/Driver error attempt 1: Message: 
+
+2026-03-16 23:00:47,233 | INFO | Composing to careers@billdesk.com (attempt 2/3)
+2026-03-16 23:01:27,998 | WARNING | Window/Driver error attempt 2: Message: 
+
+2026-03-16 23:01:35,550 | INFO | Composing to careers@billdesk.com (attempt 3/3)
+2026-03-16 23:02:16,423 | WARNING | Window/Driver error attempt 3: Message: 
+
+2026-03-16 23:02:21,429 | ERROR | ✗ Failed → careers@billdesk.com after 3 attempts
+2026-03-16 23:02:21,456 | INFO | Screenshot saved: fail_careers.png
+2026-03-16 23:02:21,457 | INFO | Waiting 15.0s...
+2026-03-16 23:02:36,465 | INFO | [ 69/70] PhonePe Mumbai Office  →  careers@phonepe.com
+2026-03-16 23:02:39,016 | INFO | Composing to careers@phonepe.com (attempt 1/3)
+2026-03-16 23:03:18,483 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 23:03:20,494 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 23:03:24,252 | INFO | Recipient chip confirmed: careers@phonepe.com
+2026-03-16 23:03:33,188 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 23:03:33,697 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 23:03:35,242 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 23:03:38,260 | INFO | ✓ Confirmed sent → careers@phonepe.com
+2026-03-16 23:03:38,260 | INFO | Waiting 13.5s...
+2026-03-16 23:03:51,782 | INFO | [ 70/70] Groww Mumbai Office  →  careers@groww.in
+2026-03-16 23:03:54,677 | INFO | Composing to careers@groww.in (attempt 1/3)
+2026-03-16 23:04:04,864 | INFO | Compose clicked: div.T-I.T-I-KE.L3
+2026-03-16 23:04:05,375 | INFO | Compose dialog: div[role='dialog']
+2026-03-16 23:04:07,385 | INFO | To field located: div[aria-label='To'][name='to']
+2026-03-16 23:04:10,899 | INFO | Recipient chip confirmed: careers@groww.in
+2026-03-16 23:04:20,000 | INFO | Subject filled: input[name='subjectbox']
+2026-03-16 23:04:20,507 | INFO | Body field located: div[aria-label='Message Body']
+2026-03-16 23:04:22,053 | INFO | Send clicked: div[aria-label='Send ‪(Ctrl-Enter)‬']
+2026-03-16 23:04:25,068 | INFO | ✓ Confirmed sent → careers@groww.in
+2026-03-16 23:04:25,069 | INFO | ==========================================================
+2026-03-16 23:04:25,069 | INFO |   Done.  ✓ Sent: 69  |  ✗ Failed: 1  |  Total: 70
+2026-03-16 23:04:25,069 | INFO | ==========================================================
